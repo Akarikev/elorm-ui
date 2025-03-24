@@ -1,7 +1,5 @@
 ##
 
-#THE BEGINNING OF A GREAT UI LIBRARY
-
 elorm-ui/
 │── apps/
 │ ├── web/ # A Next.js app for testing the UI library
